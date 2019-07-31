@@ -1,0 +1,5 @@
+# IDE sources
+.idea/
+
+# Compile files
+out/
